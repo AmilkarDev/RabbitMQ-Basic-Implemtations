@@ -1,0 +1,11 @@
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogs\bin\Debug\netcoreapp2.1\ReceiveLogs.deps.json
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogs\bin\Debug\netcoreapp2.1\ReceiveLogs.runtimeconfig.json
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogs\bin\Debug\netcoreapp2.1\ReceiveLogs.runtimeconfig.dev.json
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogs\bin\Debug\netcoreapp2.1\ReceiveLogs.dll
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogs\bin\Debug\netcoreapp2.1\ReceiveLogs.pdb
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogs\obj\Debug\netcoreapp2.1\ReceiveLogs.csprojAssemblyReference.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogs\obj\Debug\netcoreapp2.1\ReceiveLogs.csproj.CoreCompileInputs.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogs\obj\Debug\netcoreapp2.1\ReceiveLogs.AssemblyInfoInputs.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogs\obj\Debug\netcoreapp2.1\ReceiveLogs.AssemblyInfo.cs
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogs\obj\Debug\netcoreapp2.1\ReceiveLogs.dll
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogs\obj\Debug\netcoreapp2.1\ReceiveLogs.pdb

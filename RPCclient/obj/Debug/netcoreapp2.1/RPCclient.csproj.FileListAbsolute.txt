@@ -1,0 +1,11 @@
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCclient\bin\Debug\netcoreapp2.1\RPCclient.deps.json
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCclient\bin\Debug\netcoreapp2.1\RPCclient.runtimeconfig.json
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCclient\bin\Debug\netcoreapp2.1\RPCclient.runtimeconfig.dev.json
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCclient\bin\Debug\netcoreapp2.1\RPCclient.dll
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCclient\bin\Debug\netcoreapp2.1\RPCclient.pdb
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCclient\obj\Debug\netcoreapp2.1\RPCclient.csprojAssemblyReference.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCclient\obj\Debug\netcoreapp2.1\RPCclient.csproj.CoreCompileInputs.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCclient\obj\Debug\netcoreapp2.1\RPCclient.AssemblyInfoInputs.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCclient\obj\Debug\netcoreapp2.1\RPCclient.AssemblyInfo.cs
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCclient\obj\Debug\netcoreapp2.1\RPCclient.dll
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCclient\obj\Debug\netcoreapp2.1\RPCclient.pdb

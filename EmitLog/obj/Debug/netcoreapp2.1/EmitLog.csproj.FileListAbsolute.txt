@@ -1,0 +1,11 @@
+C:\Users\Amilkar\Desktop\Middleware-Project\EmitLog\bin\Debug\netcoreapp2.1\EmitLog.deps.json
+C:\Users\Amilkar\Desktop\Middleware-Project\EmitLog\bin\Debug\netcoreapp2.1\EmitLog.runtimeconfig.json
+C:\Users\Amilkar\Desktop\Middleware-Project\EmitLog\bin\Debug\netcoreapp2.1\EmitLog.runtimeconfig.dev.json
+C:\Users\Amilkar\Desktop\Middleware-Project\EmitLog\bin\Debug\netcoreapp2.1\EmitLog.dll
+C:\Users\Amilkar\Desktop\Middleware-Project\EmitLog\bin\Debug\netcoreapp2.1\EmitLog.pdb
+C:\Users\Amilkar\Desktop\Middleware-Project\EmitLog\obj\Debug\netcoreapp2.1\EmitLog.csprojAssemblyReference.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\EmitLog\obj\Debug\netcoreapp2.1\EmitLog.csproj.CoreCompileInputs.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\EmitLog\obj\Debug\netcoreapp2.1\EmitLog.AssemblyInfoInputs.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\EmitLog\obj\Debug\netcoreapp2.1\EmitLog.AssemblyInfo.cs
+C:\Users\Amilkar\Desktop\Middleware-Project\EmitLog\obj\Debug\netcoreapp2.1\EmitLog.dll
+C:\Users\Amilkar\Desktop\Middleware-Project\EmitLog\obj\Debug\netcoreapp2.1\EmitLog.pdb

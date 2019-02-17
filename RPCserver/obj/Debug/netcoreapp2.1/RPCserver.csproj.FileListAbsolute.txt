@@ -1,0 +1,11 @@
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCserver\obj\Debug\netcoreapp2.1\RPCserver.csprojAssemblyReference.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCserver\obj\Debug\netcoreapp2.1\RPCserver.csproj.CoreCompileInputs.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCserver\obj\Debug\netcoreapp2.1\RPCserver.AssemblyInfoInputs.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCserver\obj\Debug\netcoreapp2.1\RPCserver.AssemblyInfo.cs
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCserver\bin\Debug\netcoreapp2.1\RPCserver.deps.json
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCserver\bin\Debug\netcoreapp2.1\RPCserver.runtimeconfig.json
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCserver\bin\Debug\netcoreapp2.1\RPCserver.runtimeconfig.dev.json
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCserver\bin\Debug\netcoreapp2.1\RPCserver.dll
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCserver\bin\Debug\netcoreapp2.1\RPCserver.pdb
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCserver\obj\Debug\netcoreapp2.1\RPCserver.dll
+C:\Users\Amilkar\Desktop\Middleware-Project\RPCserver\obj\Debug\netcoreapp2.1\RPCserver.pdb

@@ -1,0 +1,11 @@
+C:\Users\Amilkar\desktop\Middleware-Project\Worker\bin\Debug\netcoreapp2.1\Worker.deps.json
+C:\Users\Amilkar\desktop\Middleware-Project\Worker\bin\Debug\netcoreapp2.1\Worker.runtimeconfig.json
+C:\Users\Amilkar\desktop\Middleware-Project\Worker\bin\Debug\netcoreapp2.1\Worker.runtimeconfig.dev.json
+C:\Users\Amilkar\desktop\Middleware-Project\Worker\bin\Debug\netcoreapp2.1\Worker.dll
+C:\Users\Amilkar\desktop\Middleware-Project\Worker\bin\Debug\netcoreapp2.1\Worker.pdb
+C:\Users\Amilkar\desktop\Middleware-Project\Worker\obj\Debug\netcoreapp2.1\Worker.csprojAssemblyReference.cache
+C:\Users\Amilkar\desktop\Middleware-Project\Worker\obj\Debug\netcoreapp2.1\Worker.csproj.CoreCompileInputs.cache
+C:\Users\Amilkar\desktop\Middleware-Project\Worker\obj\Debug\netcoreapp2.1\Worker.AssemblyInfoInputs.cache
+C:\Users\Amilkar\desktop\Middleware-Project\Worker\obj\Debug\netcoreapp2.1\Worker.AssemblyInfo.cs
+C:\Users\Amilkar\desktop\Middleware-Project\Worker\obj\Debug\netcoreapp2.1\Worker.dll
+C:\Users\Amilkar\desktop\Middleware-Project\Worker\obj\Debug\netcoreapp2.1\Worker.pdb

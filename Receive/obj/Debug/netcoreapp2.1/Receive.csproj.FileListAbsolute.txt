@@ -1,0 +1,11 @@
+C:\Users\Amilkar\Desktop\Middleware-Project\Receive\bin\Debug\netcoreapp2.1\Receive.deps.json
+C:\Users\Amilkar\Desktop\Middleware-Project\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.json
+C:\Users\Amilkar\Desktop\Middleware-Project\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.dev.json
+C:\Users\Amilkar\Desktop\Middleware-Project\Receive\bin\Debug\netcoreapp2.1\Receive.dll
+C:\Users\Amilkar\Desktop\Middleware-Project\Receive\bin\Debug\netcoreapp2.1\Receive.pdb
+C:\Users\Amilkar\Desktop\Middleware-Project\Receive\obj\Debug\netcoreapp2.1\Receive.csprojAssemblyReference.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\Receive\obj\Debug\netcoreapp2.1\Receive.csproj.CoreCompileInputs.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfoInputs.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfo.cs
+C:\Users\Amilkar\Desktop\Middleware-Project\Receive\obj\Debug\netcoreapp2.1\Receive.dll
+C:\Users\Amilkar\Desktop\Middleware-Project\Receive\obj\Debug\netcoreapp2.1\Receive.pdb

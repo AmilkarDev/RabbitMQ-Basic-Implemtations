@@ -1,0 +1,11 @@
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogsTopic\obj\Debug\netcoreapp2.1\ReceiveLogsTopic.csprojAssemblyReference.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogsTopic\obj\Debug\netcoreapp2.1\ReceiveLogsTopic.csproj.CoreCompileInputs.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogsTopic\obj\Debug\netcoreapp2.1\ReceiveLogsTopic.AssemblyInfoInputs.cache
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogsTopic\obj\Debug\netcoreapp2.1\ReceiveLogsTopic.AssemblyInfo.cs
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogsTopic\bin\Debug\netcoreapp2.1\ReceiveLogsTopic.deps.json
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogsTopic\bin\Debug\netcoreapp2.1\ReceiveLogsTopic.runtimeconfig.json
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogsTopic\bin\Debug\netcoreapp2.1\ReceiveLogsTopic.runtimeconfig.dev.json
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogsTopic\bin\Debug\netcoreapp2.1\ReceiveLogsTopic.dll
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogsTopic\bin\Debug\netcoreapp2.1\ReceiveLogsTopic.pdb
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogsTopic\obj\Debug\netcoreapp2.1\ReceiveLogsTopic.dll
+C:\Users\Amilkar\Desktop\Middleware-Project\ReceiveLogsTopic\obj\Debug\netcoreapp2.1\ReceiveLogsTopic.pdb
